@@ -18,7 +18,7 @@ A study and comparison between quantization based foveated video compression and
 
 - Open terminal and `cd` to the extracted directory
 
-### 1. VR compression:
+## 1. VR compression:
 - In the terminal write the command below and run.
 
 		`python detect_faces_vr_compression.py -i image/test1.jpg`
@@ -30,7 +30,7 @@ A study and comparison between quantization based foveated video compression and
 - the output images are saved in the root directory
 
 
-### 2. Quantization video compression:
+## 2. Quantization foveated video compression:
 - In the terminal write the command below and run.
 
 		`python fovea_video.py -v video/test5.mp4`
@@ -49,16 +49,20 @@ A study and comparison between quantization based foveated video compression and
 
 ## Results
 
-VR Compression result
+### VR Compression result
+
 ![VR compression result](https://github.com/zeeem/Foveated-Video-Compression/blob/master/docs/vr_compr.jpg)
 
-Color quantization Video Compression result
+### Color quantization Video Compression result
+
 ![Color quantization Video Compression result](https://github.com/zeeem/Foveated-Video-Compression/blob/master/docs/face_ssd.jpg)
 
-Output Comparison: Color quantization Video Compression vs VR Compression
+### Output Comparison: Color quantization Video Compression vs VR Compression
+
 ![Output Comparison](https://github.com/zeeem/Foveated-Video-Compression/blob/master/docs/quantize_vr_comapre.jpg)
 
-Output Comparison: PSNR, SSIM, Compression ratio
+### Output Comparison: PSNR, SSIM, Compression ratio
+
 ![Output Comparison](https://github.com/zeeem/Foveated-Video-Compression/blob/master/docs/psnr_ssim.jpg)
 
 
