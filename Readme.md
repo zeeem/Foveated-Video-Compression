@@ -50,16 +50,16 @@ A study and comparison between quantization based foveated video compression and
 ## Results
 
 VR Compression result
-![VR compression result](https://github.com/zeeem/NN3D-Visualizer/blob/master/docs/vr_compr.jpg)
+![VR compression result](https://github.com/zeeem/Foveated-Video-Compression/blob/master/docs/vr_compr.jpg)
 
 Color quantization Video Compression result
-![Color quantization Video Compression result](https://github.com/zeeem/NN3D-Visualizer/blob/master/docs/face_ssd.jpg)
+![Color quantization Video Compression result](https://github.com/zeeem/Foveated-Video-Compression/blob/master/docs/face_ssd.jpg)
 
 Output Comparison: Color quantization Video Compression vs VR Compression
-![Output Comparison](https://github.com/zeeem/NN3D-Visualizer/blob/master/docs/quantize_vr_comapre.jpg)
+![Output Comparison](https://github.com/zeeem/Foveated-Video-Compression/blob/master/docs/quantize_vr_comapre.jpg)
 
 Output Comparison: PSNR, SSIM, Compression ratio
-![Output Comparison](https://github.com/zeeem/NN3D-Visualizer/blob/master/docs/psnr_ssim.jpg)
+![Output Comparison](https://github.com/zeeem/Foveated-Video-Compression/blob/master/docs/psnr_ssim.jpg)
 
 
 
